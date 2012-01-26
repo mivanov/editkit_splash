@@ -1,0 +1,7 @@
+.project
+.pydevproject
+settings.py
+splash.db
+*.log
+*.pot
+*.pyc

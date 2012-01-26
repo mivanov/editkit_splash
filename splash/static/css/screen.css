@@ -1,0 +1,54 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 2em;
+    padding-top: 0.5em;
+}
+
+.vision {
+    font-size: 1.2em;
+}
+
+.feature {
+    clear: both;
+    margin: 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    height: 128px;
+}
+
+.feature img {
+    float: left;
+    margin: 0;
+    margin-right: 1em;
+}
+
+.feature p {
+    padding-top: 2em;
+}
+
+.action {
+    float: left;
+    height: 96px;
+    width: 33.33%;
+    font-size: 0.9em;
+    margin-bottom: 3em;
+}
+
+.action img {
+    float: left;
+    margin: 0;
+    margin-right: 0.5em;
+}
+
+.action p{
+    text-align: left;
+    margin: 0;
+}
+
