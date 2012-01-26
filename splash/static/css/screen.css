@@ -3,16 +3,22 @@ body {
     width: 900px;
     margin-left: auto;
     margin-right: auto;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 h1 {
+    text-align: center;
     font-size: 2em;
     padding-top: 0.5em;
 }
 
 .vision {
-    font-size: 1.2em;
+    text-align: center;
+}
+
+.subheading {
+    text-align: center;
+    line-height: 1.5em;
 }
 
 .feature {
